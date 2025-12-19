@@ -1,0 +1,7 @@
+{
+  "name": "Mysore Heritage Hub",
+  "description": "A Dailyhunt-inspired platform to discover Mysore's hidden gems and support local artisans through stories and maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
